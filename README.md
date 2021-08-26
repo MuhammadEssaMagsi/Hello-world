@@ -1,2 +1,3 @@
 # Hello-world
-My first test project on GitHub
+This is my first GitHub project test,
+ I made this commit to learn about how the system works here
